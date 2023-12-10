@@ -1,1 +1,1 @@
-Ensemble DRVFL wiith Hyperopt ffor parameter optimization
+Ensemble DRVFL with Hyperopt for parameter optimization
